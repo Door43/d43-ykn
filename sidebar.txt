@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ykn:home|Door43 (ykn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ykn|d43-ykn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ykn/archive/master.zip|d43-ykn.zip]]
+
+**Recent Changes**
+{{changes>ns = ykn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ykn|Ethnologue data]]
+
